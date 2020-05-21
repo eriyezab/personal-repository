@@ -1,6 +1,7 @@
 # My Favourite Foods
 
 1. Burgers
+
 ![Burgers and Fries](burgers_fries.jpeg)
 
 2. Chicken
